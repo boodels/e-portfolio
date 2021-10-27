@@ -1,2 +1,2 @@
-# e-protofolio
+# e-portfolio
 personal website
